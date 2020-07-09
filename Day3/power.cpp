@@ -11,4 +11,5 @@ int main()
     result=pow(x,n);
     cout<<" The Power of number is: "<<x<<" ^ "<<n<<" = "<<result<<endl;
     return 0;
+    
 }
