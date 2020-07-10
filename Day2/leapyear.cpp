@@ -25,7 +25,7 @@ int main()
            cout<<"The year is not a leap year it has 365 days."<<endl;
        }
        
-    }
+    
     return 0;
 }
 
