@@ -12,8 +12,7 @@ void removeSpecialCharacter(string s)
 		// Finding the character whose 
 		// ASCII value fall under this 
 		// range 
-		if (s[i] < 'A' || s[i] > 'Z' && 
-			s[i] < 'a' || s[i] > 'z') 
+		if (s[i] < 'A' || s[i] > 'Z' && s[i] < 'a' || s[i] > 'z') 
 		{ 
 			// erase function to erase 
 			// the character 
